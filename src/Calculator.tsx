@@ -51,7 +51,7 @@ const Calculator: React.FC<CalculatorProps> = () => {
  
   return (
     <div className='sbkapapa'>
-      {/* <ToggleMetricImperial /> */}
+      <ToggleMetricImperial />
       <div className='HeaderMain'>
         <img src='/images/calcuLogo.png'/>
       </div>
